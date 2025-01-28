@@ -9,7 +9,7 @@ The game provides a simple graphical interface. It utilizes SDL for rendering gr
 - Graphical interface built using the SDL library.
 - Handles player turns and determines the winner or a draw.
 
-### Installing SDL Libraries
+## Installing SDL Libraries
 - The library is already installed in the `src` directory
 - Ensure the SDL `.dll` files are in the same directory as the compiled executable for the game to run.
 
