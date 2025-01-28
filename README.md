@@ -1,8 +1,7 @@
 # XO Game Using SDL Library
 
 ## Description
-This repository contains a Tic Tac Toe (XO) 
-game implemented in C using the SDL (Simple DirectMedia Layer) library.  
+This repository contains a Tic Tac Toe (XO) game implemented in C using the SDL (Simple DirectMedia Layer) library.  
 The game provides a simple graphical interface. It utilizes SDL for rendering graphics and handling user inputs.
 
 ## Features
